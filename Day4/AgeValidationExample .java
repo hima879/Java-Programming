@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 // Program demonstrating a while loop to validate age input
 public class AgeValidationExample {
     public static void main(String[] args) {
