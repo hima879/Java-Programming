@@ -1,6 +1,6 @@
 // Program 9: A Mad Libs-style word game using user input and string concatenation
 import java.util.Scanner;
-
+ 
 public class Main {
     public static void main(String[] args) {
 
