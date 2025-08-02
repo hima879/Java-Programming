@@ -1,4 +1,3 @@
-javaCopyEdit// Program 8: Calculate Area of Rectangle using user input
 import java.util.Scanner;
 
 public class AreaCalculator {
